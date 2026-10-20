@@ -1,0 +1,2 @@
+# Week 2: Data Preprocessing and Feature Engineering
+This repository contains the data preparation pipeline for the Intelligent Customer Feedback Analysis project. It includes text cleaning, lemmatization, and TF-IDF feature extraction.
